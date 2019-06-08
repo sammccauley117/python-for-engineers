@@ -3,10 +3,14 @@
 
 <p align="center">
   <img src="./img/the_gang.jpg" width="450">
+</p>
+<p align="center">
   <i>Computer Vision: Facial Detection</i>
 </p>
-
+<br>
 <p align="center">
   <img src="./img/fft.jpg" width="450">
+</p>
+<p align="center">
   <i>Signal Processing: Fourier Transform</i>
 </p>
